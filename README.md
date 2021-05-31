@@ -1,4 +1,6 @@
-# Hi, I'm Sergiu - UX Designer and Software Engineer
+# Hi, I'm Sergiu.
+
+## UX Designer and Software Engineer
 
 <img src="https://raw.githubusercontent.com/sergiuwaxmann/sergiuwaxmann/master/assets/header.png">
 
