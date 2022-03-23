@@ -1,12 +1,12 @@
 # Hi, I'm Sergiu.
 
-## UX Designer and Software Engineer
+## Software Engineer
 
 <img src="https://raw.githubusercontent.com/sergiuwaxmann/sergiuwaxmann/master/assets/header.png">
 
 Are you seeking a contributor and problem solver with resourceful UX knowledge and high-end coding skills? Here I am.
 
-I am a result-oriented UX designer and software engineer who specialises in helping businesses become more memorable, impactful and profitable by developing cutting-edge digital products. I enjoy creating intuitive and dynamic user experiences, love writing code, and welcome the opportunity to bring my enthusiasm and skills to your next project!
+I am a result-oriented software engineer who specialises in helping businesses become more memorable, impactful and profitable by developing cutting-edge digital products. I enjoy creating intuitive and dynamic user experiences, love writing code, and welcome the opportunity to bring my enthusiasm and skills to your next project!
 
 I design and build beautiful applications for businesses around the globe. I'm good at thinking abstractly and putting together systems with many moving parts. I have worked both developing projects from scratch as well as taking over existing codebases, using a variety of programming languages and frameworks. Over the years I've specialised in producing simple yet meaningful user-centered applications.
 
