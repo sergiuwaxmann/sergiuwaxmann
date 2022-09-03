@@ -24,5 +24,5 @@ If you need a modern and powerful application for your business, startup or your
 
 ### Links:
 
-- <a href="https://www.sickode.com" target="_blank">Website</a> 🌎
-- <a href="https://www.twitter.com/sergiuwaxmann" target="_blank">Twitter</a> 🤟🏼
+- <a href="https://www.sickode.com">Website</a> 🌎
+- <a href="https://www.twitter.com/sergiuwaxmann">Twitter</a> 🤟🏼
