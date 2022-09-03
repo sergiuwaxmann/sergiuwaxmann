@@ -22,7 +22,7 @@ If you need a modern and powerful application for your business, startup or your
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiuwaxmann&layout=compact&bg_color=1f1f47&title_color=2fb5fc&text_color=2fb5fc)](https://github.com/anuraghazra/github-readme-stats)
 
-### Me on the web:
+### Links:
 
-- <a href="https://www.sickode.com">www.sickode.com</a> 🌎
-- Sharing updates on <a href="https://www.linkedin.com/in/sergiuwaxmann">LinkedIn</a>, <a href="https://www.facebook.com/sickodewebdesign">Facebook</a> and <a href="https://www.instagram.com/sickodewebdesign">Instagram</a> 🤟🏼
+- <a href="https://www.sickode.com" target="_blank">Website</a> 🌎
+- <a href="https://www.twitter.com/sergiuwaxmann" target="_blank">Twitter</a> 🤟🏼
