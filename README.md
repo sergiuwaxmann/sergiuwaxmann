@@ -20,7 +20,7 @@ If you need a modern and powerful application for your business, startup or your
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiuwaxmann&layout=compact&bg_color=1f1f47&title_color=2fb5fc&text_color=2fb5fc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://sickodewebdesign-github-readme-stats.vercel.app/api/top-langs/?username=sergiuwaxmann&layout=compact&bg_color=1f1f47&title_color=2fb5fc&text_color=2fb5fc)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links:
 
