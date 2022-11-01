@@ -20,7 +20,7 @@ If you need a modern and powerful application for your business, startup or your
 
 <br>
 
-![Stats](https://sickodewebdesign-github-readme-stats.vercel.app/api?username=sergiuwaxmann&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&show_icons=true&icon_color=3B82F6&border_radius=10&hide_title=true&hide_border=true&disable_animations=true)
+![Stats](https://sickodewebdesign-github-readme-stats.vercel.app/api?username=sergiuwaxmann&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&show_icons=true&icon_color=3B82F6&border_radius=10&hide_title=true&hide_border=true)
 
 ![Top langs](https://sickodewebdesign-github-readme-stats.vercel.app/api/top-langs/?username=sergiuwaxmann&layout=compact&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&border_radius=10&hide_title=true&hide_border=true)
 
