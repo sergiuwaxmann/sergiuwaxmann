@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Sergiu.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sergiuwaxmann&label=Profile%20Views&icon=0&color=12&pretty=true)
-
 ## 💼 Available for Work
 
 <a href="https://sickode.com">
