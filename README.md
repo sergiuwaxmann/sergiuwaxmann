@@ -20,14 +20,6 @@ Working with people from diverse backgrounds has provided me with a deep underst
 
 If you need a modern and powerful application for your business, startup or yourself, you can <a href="https://sickode.com">schedule a discovery call</a> or email me directly at <a href="mailto:sergiu@sickode.com?subject=Let's%20talk">sergiu@sickode.com</a>.
 
-## 📊 GitHub Stats
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=sergiuwaxmann&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0F172A&ring=3B82F6&fire=3B82F6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=F8FAFC&stroke=0F172A)](https://git.io/streak-stats)
-
-![Commits](https://sickodewebdesign-github-readme-stats.vercel.app/api?username=sergiuwaxmann&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&show_icons=true&icon_color=3B82F6&border_radius=10&hide_title=true&hide_border=true)
-
-![Top Langs](https://sickodewebdesign-github-readme-stats.vercel.app/api/top-langs/?username=sergiuwaxmann&layout=compact&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&border_radius=10&hide_title=true&hide_border=true)
-
 ## 💻 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
