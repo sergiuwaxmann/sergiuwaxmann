@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sergiu.
 
+![Profile Views](https://komarev.com/ghpvc/?username=sergiuwaxmann&label=PROFILE+VIEWS&color=3B82F6)
+
 ## 💼 Available for Work
 
 <a href="https://sickode.com">
