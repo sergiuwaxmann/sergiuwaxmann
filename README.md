@@ -18,7 +18,7 @@ Working with people from diverse backgrounds has provided me with a deep underst
 
 ### Are you minding a project? Let’s talk.
 
-If you need a modern and powerful application for your business, startup or yourself, you can <a href="https://sickode.com">schedule a discovery call</a> or email me directly at <a href="mailto:sergiu@sickode.com?subject=Let's%20talk">sergiu@sickode.com</a>.
+If you need a modern and powerful application for your business, startup or yourself, you can <a href="https://tidycal.com/sickode">schedule a meeting</a> or email me directly at <a href="mailto:sergiu@sickode.com?subject=Let's%20talk">sergiu@sickode.com</a>.
 
 ## 💻 Tech Stack
 
