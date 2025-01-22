@@ -8,13 +8,13 @@
 
 Are you seeking a contributor and problem solver with resourceful UX knowledge and high-end coding skills? Here I am.
 
-I am a result-oriented software engineer who specialises in helping businesses become more memorable, impactful and profitable by developing cutting-edge digital products. I enjoy creating intuitive and dynamic user experiences, love writing code, and welcome the opportunity to bring my enthusiasm and skills to your next project!
+I am a results-oriented software engineer who specializes in helping businesses become more memorable, impactful, and profitable by developing cutting-edge digital products. I enjoy creating intuitive and dynamic user experiences, love writing code, and welcome the opportunity to bring my enthusiasm and skills to your next project!
 
-I design and build beautiful applications for businesses around the globe. I'm good at thinking abstractly and putting together systems with many moving parts. I have worked both developing projects from scratch as well as taking over existing codebases, using a variety of programming languages and frameworks. Over the years I've specialised in producing simple yet meaningful user-centered applications.
+I design and build beautiful applications for businesses around the globe. I’m good at thinking abstractly and putting together systems with many moving parts. I have worked both on developing projects from scratch as well as taking over existing codebases, using a variety of programming languages and frameworks. Over the years, I've specialized in producing simple yet meaningful user-centered applications.
 
-I am familiar with working on deadline and I bring professionalism, communication, and great attention to detail to projects. I am taking an interactive approach to projects which includes sketching, wireframes and prototyping, so that we are continually ensuring that the application being built is the application intended. I believe in collaborative, test-driven development.
+I am familiar with working on deadlines, and I bring professionalism, communication, and great attention to detail to projects. I take an interactive approach to projects, which includes sketching, wireframes, and prototyping, to continually ensure that the application being built matches the requirements. I believe in collaborative, test-driven development.
 
-Working with people from diverse backgrounds has provided me with a deep understanding and awareness of differences in both individuals and organizations, reason why I strongly believe that we can easily be a good fit.
+Working with people from diverse backgrounds has provided me with a deep understanding and awareness of differences in both individuals and organizations, which is why I strongly believe that we can easily be a good fit.
 
 ### Are you minding a project? [Let’s talk.](https://sickode.com)
 
@@ -22,36 +22,31 @@ If you need a modern and powerful application for your business, startup or your
 
 ## 💻 Tech Stack
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+These are the tech superpowers I’m wielding right now.
+
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <br>
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-<br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 <br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
+<br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br>
+![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54)
 
 ## 🌎 Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiuwaxmann)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sergiuwaxmann)
